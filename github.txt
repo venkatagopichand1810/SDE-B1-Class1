@@ -5,3 +5,10 @@ git status
 git commit -m "changes"
 git remote url 
 git push
+
+=======================
+i wanted to create a branch from master... git branch -m development
+
+git add .
+git commit -m "added the changes"
+git push
