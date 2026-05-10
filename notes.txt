@@ -1,5 +1,5 @@
 javascirpt is the high level interpreted object oriented programming language used to create interactive web pages
 
-1) html => structure 
+1) html => structure and document
 2) css -> design
 3) javascirpt -> logic and functionlity 
